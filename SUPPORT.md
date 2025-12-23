@@ -23,3 +23,14 @@ CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
 ## Microsoft Support Policy  
 
 Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+
+
+<!-- 
+dotnet add package Azure.Security.KeyVault.Secrets
+dotnet add package Azure.Identity
+dotnet add package Microsoft.Extensions.AI
+dotnet add package Microsoft.Extensions.AI.OpenAI
+dotnet add package Microsoft.Extensions.Configuration
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets
+dotnet add package Microsoft.Extensions.Configuration.Json
+dotnet add package Microsoft.Extensions.AI.OpenAI -->

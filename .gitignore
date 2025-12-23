@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 .venv/
 .env
+
+# Exclude all launchSettings.json files from all subdirectories
+**/launchSettings.json
